@@ -1,0 +1,14 @@
+@font-face {
+  font-family: 'EngraversGothicRegular';
+  src: url('engravers_gothic-webfont.eot');
+  src: url('engravers_gothic-webfont.eot?#iefix') format('embedded-opentype'), url('engravers_gothic-webfont.woff') format('woff'), url('engravers_gothic-webfont.ttf') format('truetype'), url('engravers_gothic-webfont.svg#EngraversGothicRegular') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'EngraversGothicFSBold';
+  src: url('engraversgothic-bold-webfont-webfont.eot');
+  src: url('engraversgothic-bold-webfont-webfont.eot?#iefix') format('embedded-opentype'), url('engraversgothic-bold-webfont-webfont.woff') format('woff'), url('engraversgothic-bold-webfont-webfont.ttf') format('truetype'), url('engraversgothic-bold-webfont-webfont.svg#EngraversGothicFSBold') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
